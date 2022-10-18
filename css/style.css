@@ -100,9 +100,6 @@ nav ul.main-menu li{
 
 
 div.big-content{
-    background-color: #228a22;
-    height: 800px;
-    width: 100%;
 }
 
 footer{
@@ -219,4 +216,20 @@ div.header-button{
     font-family: sans-serif;
 }
 
+.Big-text{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-size: 3rem;
+    font-family: sans-serif;
+    text-align: center
+}
 
+.par-text{
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.big-imgs{
+    padding-left: 10rem;
+}
